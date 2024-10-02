@@ -490,15 +490,15 @@ img {
 }
 
 .skills__css {
-  width: 40%;
+  width: 60%;
 }
 
 .skills__js {
-  width: 40%;
+  width: 60%;
 }
 
 .skills__react {
-  width: 20%;
+  width: 60%;
 }
 
 .skills__java {
@@ -533,8 +533,12 @@ img {
   width: 40%;
 }
 
-.skills__pandas {
-  width: 20%;
+.skills__express {
+  width: 40%;
+}
+
+.skills__next {
+  width: 40%;
 }
 .skills__matplot {
   width: 40%;
